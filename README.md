@@ -16,7 +16,7 @@ This project identifies patterns in gaming behavior that correlate with depressi
 - **Risk Prediction:** Built a model to identify "At-Risk" users based on behavioral data.
 
 ##  Dashboard Preview
-![Dashboard Screenshot](Screenshot 2026-03-13 033359.png)
+![Dashboard Screenshot](Screenshot%202026-03-13%20033359.png)
 
 ---
 *Note: This project was developed as part of a professional data science portfolio.*
